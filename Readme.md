@@ -1,4 +1,4 @@
-# Prompt 12 Generate Work-Order References
+# Generate Work-Order References
 
 This README explains, step by step, what was done to implement the prompt:
 
